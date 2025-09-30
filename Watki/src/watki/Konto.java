@@ -11,8 +11,9 @@ public class Konto {
         this.saldo = saldo;
     }
 
-    public void Dodaj() {
+    public synchronized void Dodaj() {
         saldo += 10;
         System.out.println(saldo);
     }
 }
+
