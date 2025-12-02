@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">NWD</string>
-    <string name="nwd">NWD</string>
-    <string name="syma_cyfr">Syma cyfr</string>
-    <string name="podaj_liczby_dla_nwd">Podaj liczby dla NWD:</string>
-    <string name="policz">Policz</string>
-</resources>
